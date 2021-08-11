@@ -1,0 +1,25 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    margin-top: 100px !important;    
+}
+
+.all {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+.all td , th {
+    padding: 10px 20px !important;
+}
+
+.all-input {
+    outline: none;
+    
+}
+
+.all button {
+    margin-right: 15px;
+}
